@@ -1,0 +1,15 @@
+#define DIGIT 257
+#define VAR 258
+#define HEADER 259
+#define MAIN 260
+#define STARTB 261
+#define ENDB 262
+#define ENDS 263
+#define DTYPE 264
+#define SEP 265
+#define FUNC 266
+#define OP 267
+#define EQ 268
+#define IFC 269
+#define OPB 270
+#define CLB 271
